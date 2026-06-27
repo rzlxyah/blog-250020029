@@ -1,0 +1,37 @@
+body{
+    font-family: Arial;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#0077cc;
+    color:white;
+    padding:30px;
+    text-align:center;
+}
+
+main{
+    width:80%;
+    margin:auto;
+    padding:20px;
+}
+
+article{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+}
+
+.tanggal{
+    color:gray;
+    font-size:14px;
+}
+
+footer{
+    text-align:center;
+    background:#333;
+    color:white;
+    padding:15px;
+}
